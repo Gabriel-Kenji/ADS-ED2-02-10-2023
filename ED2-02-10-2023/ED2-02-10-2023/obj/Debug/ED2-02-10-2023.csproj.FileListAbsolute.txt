@@ -1,0 +1,11 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-02-10-2023\ED2-02-10-2023\ED2-02-10-2023\bin\Debug\ED2-02-10-2023.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-02-10-2023\ED2-02-10-2023\ED2-02-10-2023\bin\Debug\ED2-02-10-2023.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-02-10-2023\ED2-02-10-2023\ED2-02-10-2023\bin\Debug\ED2-02-10-2023.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-02-10-2023\ED2-02-10-2023\ED2-02-10-2023\obj\Debug\ED2-02-10-2023.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-02-10-2023\ED2-02-10-2023\ED2-02-10-2023\obj\Debug\ED2-02-10-2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-02-10-2023\ED2-02-10-2023\ED2-02-10-2023\obj\Debug\ED2_02_10_2023.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-02-10-2023\ED2-02-10-2023\ED2-02-10-2023\obj\Debug\ED2-02-10-2023.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-02-10-2023\ED2-02-10-2023\ED2-02-10-2023\obj\Debug\ED2-02-10-2023.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-02-10-2023\ED2-02-10-2023\ED2-02-10-2023\obj\Debug\ED2-02-10-2023.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-02-10-2023\ED2-02-10-2023\ED2-02-10-2023\obj\Debug\ED2-02-10-2023.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-02-10-2023\ED2-02-10-2023\ED2-02-10-2023\obj\Debug\ED2_02_10_2023.Form1.resources
